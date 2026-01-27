@@ -1,1 +1,2 @@
 Estou aprendendo Git
+Aprendendo sobre commit
