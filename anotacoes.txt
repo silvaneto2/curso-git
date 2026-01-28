@@ -2,3 +2,4 @@ Estou aprendendo Git
 Aprendendo sobre commit
 Linha criada na branch nova-funionalidade
 Aprendendo a enviar mudanças para o GitHub
+Essa linha foi criada em uma branch de melhoria
